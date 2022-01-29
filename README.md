@@ -1,2 +1,2 @@
 # OpenRocket-sims
-Conceptual open rocket designs 
+Rocket design concepts for OpenRocket software
